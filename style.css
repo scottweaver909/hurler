@@ -201,15 +201,15 @@ button:focus {
 /* ========= BUTTON =========*/
 
 .mu-primary-btn {
-	background-color: black;
+	background-color: #b52435;
 	border-radius: 100px;
 	border: solid 1px #ffffff;
 	color: #fff;
 	display: inline-block;
-	font-size: 15px;
+	font-size: 25px;
 	font-weight: 400;
 	letter-spacing: 1px;
-	padding: 12px 25px;
+	padding: 12px 40px;
 	-webkit-transition: all 0.5s;
 	transition: all 0.5s;
 }
